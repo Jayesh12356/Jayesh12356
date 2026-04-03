@@ -1,17 +1,42 @@
 # Hey, I'm Jayesh 👋
 
-I build AI systems and full-stack web apps.
-Currently focused on production-grade GenAI backends.
+I'm a full-stack developer transitioning deep into AI engineering —
+building systems that are production-ready, not just proof-of-concepts.
 
-## 🔥 What I'm Building
-- **RAG Engine** — IT helpdesk chatbot with hybrid search, OCR, confidence-gated responses, and streaming APIs
-- **KnowMore AI** — Multi-LLM study platform with AI quizzes, flashcards, and progress tracking
+My focus right now is on the backend of AI: retrieval pipelines, 
+multi-LLM architectures, grounding strategies, and making models 
+actually reliable in real-world conditions.
 
-## 🛠 Stack
-**AI/Backend:** Python · FastAPI · Node.js · PostgreSQL · Redis · Qdrant · LangChain  
-**LLMs:** Groq · OpenAI · Gemini · Cohere  
-**Frontend:** Next.js · React  
-**Infra:** Docker · Vercel · Render
+Before AI, I spent time building real-world web apps — 
+group chats, trip planners, food ordering systems, expense trackers.
+That foundation is what makes my AI work more grounded than most.
+
+---
+
+## 🛠 What I Work With
+
+**AI & Backend**
+Python · FastAPI · Node.js · Express · PostgreSQL · Redis · Qdrant · LangChain
+
+**LLMs & Providers**
+Groq · OpenAI · Google Gemini · Cohere
+
+**Frontend**
+Next.js · React · JavaScript
+
+**Infra**
+Docker · Vercel · Render
+
+---
+
+## 🎯 Where I'm Headed
+
+Building toward AI systems that solve real enterprise problems —
+helpdesks, knowledge bases, intelligent workflows.
+Not chasing trends. Building things that work.
+
+---
 
 ## 📫 Find Me
-[LinkedIn](your-link) · [Twitter](your-link)
+[LinkedIn]( 
+linkedin.com/in/jayesh-koli-042357227)
