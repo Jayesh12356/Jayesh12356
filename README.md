@@ -64,5 +64,4 @@ food ordering platforms, and expense trackers.
 
 ## 📫 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( 
-linkedin.com/in/jayesh-koli-042357227)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh-koli-042357227)
