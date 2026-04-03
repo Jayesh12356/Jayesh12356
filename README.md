@@ -2,14 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jayesh12356&color=blueviolet&style=flat)
 
-I'm a full-stack developer going deep into AI engineering —
-building production-ready systems, not just demos.
+Full-stack developer specializing in AI engineering —
+I build production-grade systems across the full stack,
+from retrieval pipelines and multi-LLM backends to polished React frontends.
 
-My focus is on the backend of AI: retrieval pipelines, multi-LLM architectures,
-grounding strategies, and making models reliable in real-world conditions.
-
-Before AI, I built real-world web apps — group chats, trip planners, food ordering systems.
-That foundation is what makes my AI work more grounded than most.
+I work across the entire AI layer: RAG architectures, hybrid search,
+grounding strategies, streaming APIs, and multi-provider LLM orchestration.
+On the web side, I've shipped real-world apps — group chats, trip planners,
+food ordering platforms, and expense trackers.
 
 ---
 
@@ -40,7 +40,7 @@ That foundation is what makes my AI work more grounded than most.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ---
 
 ## 📊 GitHub Stats
@@ -56,15 +56,14 @@ That foundation is what makes my AI work more grounded than most.
 
 ---
 
-## 🎯 Where I'm Headed
+## 🎯 What I Build
 
-Building toward AI systems that solve real enterprise problems —
-helpdesks, knowledge bases, intelligent workflows.
-Not chasing trends. Building things that work.
+- **AI Systems** — RAG pipelines, multi-LLM orchestration, confidence-gated responses, streaming APIs
+- **Full-Stack Web Apps** — end-to-end products with real users, real data, real constraints
+- **Enterprise-Ready Backends** — built for scale, not just demos
 
 ---
 
 ## 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
