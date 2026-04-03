@@ -43,19 +43,6 @@ food ordering platforms, and expense trackers.
 ![Render](https://img.shields.io/badge/Render-2E7D6E?style=for-the-badge&logo=render&logoColor=white)
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jayesh12356&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh12356&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh12356&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 What I Build
 
 - **AI Systems** — RAG pipelines, multi-LLM orchestration, confidence-gated responses, streaming APIs
@@ -66,4 +53,5 @@ food ordering platforms, and expense trackers.
 
 ## 📫 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]( 
+linkedin.com/in/jayesh-koli-042357227)
