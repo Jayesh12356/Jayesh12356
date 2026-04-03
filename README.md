@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Jayesh 👋
 
-<!--
-**Jayesh12356/Jayesh12356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems and full-stack web apps.
+Currently focused on production-grade GenAI backends.
 
-Here are some ideas to get you started:
+## 🔥 What I'm Building
+- **RAG Engine** — IT helpdesk chatbot with hybrid search, OCR, confidence-gated responses, and streaming APIs
+- **KnowMore AI** — Multi-LLM study platform with AI quizzes, flashcards, and progress tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack
+**AI/Backend:** Python · FastAPI · Node.js · PostgreSQL · Redis · Qdrant · LangChain  
+**LLMs:** Groq · OpenAI · Gemini · Cohere  
+**Frontend:** Next.js · React  
+**Infra:** Docker · Vercel · Render
+
+## 📫 Find Me
+[LinkedIn](your-link) · [Twitter](your-link)
