@@ -8,8 +8,6 @@ from retrieval pipelines and multi-LLM backends to polished React frontends.
 
 I work across the entire AI layer: RAG architectures, hybrid search,
 grounding strategies, streaming APIs, and multi-provider LLM orchestration.
-On the web side, I've shipped real-world apps — group chats, trip planners,
-food ordering platforms, and expense trackers.
 
 ---
 
