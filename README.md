@@ -289,30 +289,41 @@ Centralized framework for testing, monitoring, and governing LLM behavior across
 
 ---
 
-## Education &amp; Certifications
+## Education
+
+<sub>Top-percentile academic record across postgraduate, undergraduate, and school. Currently pursuing <b>M.Tech in Software Systems</b> at <b>BITS Pilani (WILP)</b>.</sub>
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-**Education**
-
-- **M.Tech, Software Systems** — BITS Pilani (WILP) · *June 2022 – June 2026* · CGPA **8.1**
-- **B.Sc. Computer Science** — Pillai College of Arts, Commerce &amp; Science (Autonomous) · *June 2019 – March 2022* · CGPA **9.0**
-- **Higher Secondary (CBSE — Science)** — Kendriya Vidyalaya Jr. College · *June 2017 – March 2019* · **90%**
-- **Secondary School (CBSE)** — Datta Meghe World Academy School · *June 2016 – March 2017* · **92.8%**
-
-</td>
-<td width="40%" valign="top">
-
-**Certifications**
-
-- **IBM Generative AI Engineering** — Coursera
-- **Server-Side Development with Node.js, Express.js &amp; MongoDB** — Coursera
-- **The Ultimate React Course — React, Next.js, Redux &amp; More** — Udemy
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/POSTGRADUATE-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Postgraduate" />
+      <h2>8.1<sub>&nbsp;/ 10</sub></h2>
+      <b>M.Tech &middot; Software Systems</b><br/>
+      <sub>BITS Pilani &mdash; WILP</sub><br/>
+      <sub><i>2022 &mdash; 2026</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/UNDERGRADUATE-4F46E5?style=for-the-badge&labelColor=0F172A" alt="Undergraduate" />
+      <h2>9.0<sub>&nbsp;/ 10</sub></h2>
+      <b>B.Sc. &middot; Computer Science</b><br/>
+      <sub>Pillai College (Autonomous)</sub><br/>
+      <sub><i>2019 &mdash; 2022</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/HSC%20%C2%B7%20SCIENCE-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Higher Secondary Science" />
+      <h2>90<sub>%</sub></h2>
+      <b>CBSE &middot; Higher Secondary</b><br/>
+      <sub>Kendriya Vidyalaya Jr. College</sub><br/>
+      <sub><i>2017 &mdash; 2019</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/SSC%20%C2%B7%20CBSE-22C55E?style=for-the-badge&labelColor=0F172A" alt="Secondary School CBSE" />
+      <h2>92.8<sub>%</sub></h2>
+      <b>CBSE &middot; Class 10</b><br/>
+      <sub>Datta Meghe World Academy</sub><br/>
+      <sub><i>2016 &mdash; 2017</i></sub>
+    </td>
+  </tr>
 </table>
 
 ---
