@@ -187,9 +187,11 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 
 ## Education
 
+<div align="center">
+
 <sub>Top-percentile academic record across postgraduate, undergraduate, and school. Currently pursuing <b>M.Tech in Software Systems</b> at <b>BITS Pilani (WILP)</b>.</sub>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/POSTGRADUATE-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Postgraduate" />
@@ -221,6 +223,8 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
