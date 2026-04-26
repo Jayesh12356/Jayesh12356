@@ -171,10 +171,6 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jayesh12356&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh12356&bg_color=0F172A&color=E2E8F0&line=8B5CF6&point=06B6D4&area=true&hide_border=true" alt="Contribution activity graph" />
 
 <br/><br/>
@@ -184,10 +180,6 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<br/><br/>
-
-<img src="./github-metrics.svg" alt="Auto-generated GitHub metrics" />
 
 </div>
 
