@@ -53,41 +53,6 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 
 ---
 
-## Impact in Numbers
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h2>10,000+</h2>
-      <sub><b>Employees Served</b><br/>across enterprise platforms</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>4+ yrs</h2>
-      <sub><b>Production Experience</b><br/>backend &amp; GenAI systems</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>30%</h2>
-      <sub><b>Faster Response Times</b><br/>via architectural &amp; perf wins</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h2>25%</h2>
-      <sub><b>Workflow Efficiency Gain</b><br/>LLM-assisted decision flows</sub>
-    </td>
-    <td align="center">
-      <h2>20%</h2>
-      <sub><b>Procurement Cycle Cut</b><br/>scalable financial platform</sub>
-    </td>
-    <td align="center">
-      <h2>35%</h2>
-      <sub><b>Lower Latency</b><br/>event-driven services &amp; dashboards</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Enterprise GenAI Capabilities
 
 - **Decision Support** — LLM-powered systems with deterministic fallbacks, confidence-based routing, and human approval workflows for compliance-sensitive use cases.
@@ -96,24 +61,6 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 - **Evaluation & Governance** — Offline regression suites, LLM-as-a-Judge scoring, drift and hallucination detection, prompt and configuration versioning, and rollback strategies.
 - **Event-Driven Integration** — GenAI services wired into event-driven backends with retries, circuit isolation, semantic caching, rate limiting, and trace-level observability.
 - **Cloud-Native Guardrails** — Audit logging, PII redaction, jailbreak and topic-boundary defense, and granular cost and token-budget enforcement.
-
----
-
-## Architecture Snapshot
-
-```mermaid
-flowchart LR
-    User["Enterprise User"] --> Guard["Input Guardrails<br/>PII / Jailbreak / Topic"]
-    Guard --> Router{"Confidence<br/>Router"}
-    Router -->|"High"| Retr["Hybrid Retrieval<br/>BM25 + pgvector"]
-    Router -->|"Low"| HITL["Human-in-the-Loop<br/>Approval Console"]
-    Retr --> Rerank["Reranker<br/>Cohere / BGE"]
-    Rerank --> LLM["LLM Call<br/>GPT-4o / Claude"]
-    LLM --> Struct["Structured Output<br/>Pydantic + SSE"]
-    Struct --> HITL
-    Struct --> Audit[("Trace + Audit Log<br/>LangSmith-style")]
-    HITL --> SAP["SAP / Approval System"]
-```
 
 ---
 
@@ -207,49 +154,6 @@ flowchart LR
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Enterprise Financial Policy Assistant
-**RAG · Hybrid Search · Human-in-the-Loop**
-
-LLM-assisted financial analysis grounded in internal policy documents, with role-based document retrieval and structured prompt templates that constrain responses to approved enterprise sources.
-
-- Hybrid search (**BM25 + dense vectors over pgvector**) with a reranking stage
-- Recursive + semantic chunking tuned for adversarial finance queries
-- Pydantic-validated JSON streamed to the approval console via **SSE**
-- Confidence-based routing with full audit trails of prompts, context, outputs, and decisions
-
-`FastAPI` `Python` `pgvector` `Redis` `LangChain` `OpenAI`
-
-> **Impact** — sub-second perceived latency on long answers, full auditability for compliance-critical decisions.
-
-</td>
-<td width="50%" valign="top">
-
-### LLM Evaluation, Monitoring &amp; Governance Framework
-**Prompt Versioning · LLM-as-a-Judge · Trace Observability**
-
-Centralized framework for testing, monitoring, and governing LLM behavior across enterprise applications — treating GenAI behavior as code with traceable changes and rollback capability.
-
-- Automated quality scoring via **LLM-as-a-Judge** rubrics + heuristic checks
-- Detection for hallucinations, retrieval failures, and behavioral drift
-- End-to-end spans across **prompt → retrieval → generation → output**
-- Semantic caching and per-tenant token budgets for cost control
-
-`Python` `FastAPI` `LangSmith / Langfuse-style` `Redis` `PostgreSQL`
-
-> **Impact** — post-hoc replay and root-cause analysis on failed runs, enforced cost and reliability constraints.
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,30&height=2&section=header" alt="" />
 </div>
@@ -283,7 +187,7 @@ Centralized framework for testing, monitoring, and governing LLM behavior across
 
 <br/><br/>
 
-<img src="./metrics.svg" alt="Auto-generated GitHub metrics" />
+<img src="./github-metrics.svg" alt="Auto-generated GitHub metrics" />
 
 </div>
 
