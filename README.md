@@ -191,40 +191,12 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 
 <sub>Top-percentile academic record across postgraduate, undergraduate, and school. Currently pursuing <b>M.Tech in Software Systems</b> at <b>BITS Pilani (WILP)</b>.</sub>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/POSTGRADUATE-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Postgraduate" />
-      <h2>8.1<sub>&nbsp;/ 10</sub></h2>
-      <b>M.Tech &middot; Software Systems</b><br/>
-      <sub>BITS Pilani &mdash; WILP</sub><br/>
-      <sub><i>2022 &mdash; 2026</i></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/UNDERGRADUATE-4F46E5?style=for-the-badge&labelColor=0F172A" alt="Undergraduate" />
-      <h2>9.0<sub>&nbsp;/ 10</sub></h2>
-      <b>B.Sc. &middot; Computer Science</b><br/>
-      <sub>Pillai College (Autonomous)</sub><br/>
-      <sub><i>2019 &mdash; 2022</i></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/HSC%20%C2%B7%20SCIENCE-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Higher Secondary Science" />
-      <h2>90<sub>%</sub></h2>
-      <b>CBSE &middot; Higher Secondary</b><br/>
-      <sub>Kendriya Vidyalaya Jr. College</sub><br/>
-      <sub><i>2017 &mdash; 2019</i></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/SSC%20%C2%B7%20CBSE-22C55E?style=for-the-badge&labelColor=0F172A" alt="Secondary School CBSE" />
-      <h2>92.8<sub>%</sub></h2>
-      <b>CBSE &middot; Class 10</b><br/>
-      <sub>Datta Meghe World Academy</sub><br/>
-      <sub><i>2016 &mdash; 2017</i></sub>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="./assets/edu-postgrad.svg" alt="Postgraduate · 8.1/10 · M.Tech Software Systems · BITS Pilani WILP · 2022—2026" />
+  <img src="./assets/edu-undergrad.svg" alt="Undergraduate · 9.0/10 · B.Sc. Computer Science · Pillai College (Autonomous) · 2019—2022" />
+  <img src="./assets/edu-hsc.svg" alt="HSC Science · 90% · CBSE Higher Secondary · Kendriya Vidyalaya Jr. College · 2017—2019" />
+  <img src="./assets/edu-ssc.svg" alt="SSC CBSE · 92.8% · CBSE Class 10 · Datta Meghe World Academy · 2016—2017" />
+</p>
 
 </div>
 
