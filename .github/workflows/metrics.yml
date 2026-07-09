@@ -35,21 +35,25 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, makefile, dockerfile, shell
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_limit: 15
-
           plugin_lines: yes
           plugin_lines_history_limit: 1
 
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
+          # Note: plugin_languages, plugin_topics, and plugin_achievements were
+          # removed — on the fallback GITHUB_TOKEN they render empty ("0
+          # Languages") or error ("Unexpected error"). Add a METRICS_TOKEN PAT
+          # (read:user, public_repo, read:org) and re-enable them for richer data.
+
+          # Dark brand theming (slate/indigo/purple) so the committed SVG
+          # matches the profile without relying on any external theme service.
+          # `[fill="#ebedf0"]` recolors the empty contribution cells (both the
+          # 2D <rect> calendar and the 3D <path> isocalendar) without touching
+          # the green contribution cells.
+          extras_css: >
+            svg{background:#0F172A;color:#E2E8F0}
+            h1,h2,h3{color:#8B5CF6}
+            .field svg{fill:#94A3B8}
+            .field.error,.field.error svg{fill:#F87171}
+            footer{color:#64748B}
+            a{color:#06B6D4}
+            [fill="#ebedf0"]{fill:#1E293B}
+            .calendar .day{outline-color:rgba(148,163,184,.10)}

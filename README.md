@@ -162,24 +162,23 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jayesh12356&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=8B5CF6&icon_color=06B6D4&text_color=E2E8F0&ring_color=8B5CF6" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh12356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=8B5CF6&text_color=E2E8F0&langs_count=10" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Jayesh12356&theme=tokyonight&hide_border=true&background=0F172A&stroke=8B5CF6&ring=06B6D4&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh12356&bg_color=0F172A&color=E2E8F0&line=8B5CF6&point=06B6D4&area=true&hide_border=true" alt="Contribution activity graph" />
+<!-- Self-hosted metrics card: generated daily by GitHub Actions and committed to
+     the repo, so it renders from GitHub's own CDN with no flaky third-party services. -->
+<a href="https://github.com/Jayesh12356">
+  <img width="480" src="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/main/github-metrics.svg" alt="Jayesh Koli — GitHub activity, repositories, language breakdown, full-year contribution calendar, and achievements" />
+</a>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+<br/>
+
+<sub><i>Auto-refreshed daily via GitHub Actions &middot; fully self-hosted &middot; no third-party rendering services</i></sub>
 
 </div>
 
