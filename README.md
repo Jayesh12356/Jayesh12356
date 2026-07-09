@@ -165,7 +165,7 @@ Enterprise GenAI Engineer with **4+ years** designing and shipping production-gr
 <!-- Self-hosted metrics card: generated daily by GitHub Actions and committed to
      the repo, so it renders from GitHub's own CDN with no flaky third-party services. -->
 <a href="https://github.com/Jayesh12356">
-  <img width="480" src="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/main/github-metrics.svg" alt="Jayesh Koli — GitHub activity, repositories, language breakdown, full-year contribution calendar, and achievements" />
+  <img width="480" src="https://raw.githubusercontent.com/Jayesh12356/Jayesh12356/main/github-metrics.svg" alt="Jayesh Koli — GitHub activity, community and repository stats, and full-year contribution calendar" />
 </a>
 
 <br/><br/>
